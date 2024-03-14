@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TheHermes
-- 👀 I’m interested in maps
-- 🌱 I’m currently learning PHP, C & C++
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me here or on the hivemind
+Hello World
 
 <!---
 TheHermes/TheHermes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
